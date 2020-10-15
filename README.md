@@ -1,6 +1,8 @@
 ### Hei there! I'm Letícia - aka Lua' 🌙
 <br />
 
+![Welcome](/hithub.png?raw=true)
+
 - 21 years old 
 - audiobook lover haha
 - a gamer when i have the time and sometimes i take my chanches with paintings
