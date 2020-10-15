@@ -22,6 +22,9 @@ i'm currently studying, actually, i'm always studying, <p/>
 
 ---
 ### GitHubStats
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luaferraz&theme=dracula&show_icons=tue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luaferraz&layout=compact&theme=dracula&show_icons=tue)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
