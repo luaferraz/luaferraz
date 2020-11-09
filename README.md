@@ -1,16 +1,14 @@
 ---
-### Hei there! I'm Letícia - aka Lua' 🌙
+### Hei there! I'm Letícia - aka Lua' 🌙 <img src="https://media0.giphy.com/media/ibqMHUs02zKFHq8ddL/source.gif" width="50">
+
 ---
 <br />
-
-<img src="(https://media0.giphy.com/media/ibqMHUs02zKFHq8ddL/source.gif" width="200">
-
----
 
 - 21 years old 
 - audiobook lover haha
 - a gamer when i have the time and sometimes i take my chanches with paintings
-
+- cat lover 
+- i wear black, a lot
 ---
 
 i'm currently studying, actually, i'm always studying, <p/>
