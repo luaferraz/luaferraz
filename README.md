@@ -1,7 +1,6 @@
----
+
 ### Hei there! I'm Letícia - aka Lua' 🌙 <img src="https://media0.giphy.com/media/ibqMHUs02zKFHq8ddL/source.gif" width="50">
 
----
 <br />
 
 - 21 years old 
