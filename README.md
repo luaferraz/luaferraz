@@ -3,7 +3,8 @@
 ---
 <br />
 
-![Welcome](/hithub.png?raw=true)
+![Welcome](https://media0.giphy.com/media/ibqMHUs02zKFHq8ddL/source.gif)
+<img src="(https://media0.giphy.com/media/ibqMHUs02zKFHq8ddL/source.gif" width="10">
 
 ---
 
